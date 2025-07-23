@@ -3,7 +3,7 @@
 YOU ARE PLAYING ON THE LATEST VERSION: 1.12
 Hello people! I see you found the latest version of Eagletcraft! Kudos to you!
 
-Eagletcraft plays directly in the iframe, while pressing the undetectable  button 
+Eagletcraft plays directly in the iframe, while pressing the undetectable button 
 opens Eagletcraft in a new window that appears blank to screen-monitoring software like GoGuardian and Securely
 
 Eaglercraft 1.12 by lax1dude with help from ayunami2000
@@ -14,19 +14,10 @@ Eaglercraft 1.12 average RAM usage: 1.6 GB
 Eagletcraft 1.12 Undetectable average RAM usage: 0.8 GB
 
 
-
-
-
-
-
-
 PlanetGamez: https://sites.google.com/view/planet-gamez/
 OneCompiler Link: https://onecompiler.com/html/43rjjm8te
 
 -->
-
-
-
 
 <html><head><base target="_blank"><script id="gamemonetize-sdk">Couldn't find the requested file /sedk.js in testamalame/sef.</script></head><body><div id="container">
   <iframe id="fr" width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe>
@@ -48,7 +39,7 @@ OneCompiler Link: https://onecompiler.com/html/43rjjm8te
   const DB_NAME = 'GameCacheDB';
   const STORE_NAME = 'GameFiles';
   const CACHE_DURATION = 90 * 24 * 60 * 60 * 1000; // 3 ay
-  const FILE_URL = 'https://cdn.jsdelivr.net/gh/PlanetDogeCodes/Eagletcraft-1.12@main/main1.xml';
+  const FILE_URL = 'https://cdn.jsdelivr.net/gh/PlanetDogeCodes/Eagletcraft-1.12@main/source%20file/egc1-12.xml';
   const SDK_URL = 'https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js';
 
   function openDB() {
