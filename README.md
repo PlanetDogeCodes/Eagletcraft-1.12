@@ -5,5 +5,5 @@ HOW IT WORKS: Eagletcraft 1.12 was made by distibuting the code of EaglercraftX 
 
 WHY IT WORKS: The reason Eagletcraft runs so well with low ram usage is because none of your computer's RAM is being wasted trying to update static files every tick (one-twentieth of a second).
 
-Latest Patch: p2 on 7/23/2025
-Previous Patch: p1 on 7/23/2025
+Latest Patch: p3 on 7/24/2025
+Previous Patch: p2 on 7/23/2025
