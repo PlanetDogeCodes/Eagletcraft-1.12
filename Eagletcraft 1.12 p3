@@ -1,23 +1,34 @@
 <!--
 
-YOU ARE PLAYING ON THE LATEST VERSION: 1.12
-Hello people! I see you found the latest version of Eagletcraft! Kudos to you!
+YOU ARE PLAYING ON THE P3 PATCH OF EAGLETCRAFT 1.12 FROM 7/24/2025
+CHECK FOR NEWER VERSIONS HERE: https://github.com/PlanetDogeCodes/Eagletcraft-1.12
 
-Eagletcraft plays directly in the iframe, while pressing the undetectable button 
+Eagletcraft plays directly in the iframe, while  pressing the undetectable  button 
 opens Eagletcraft in a new window that appears blank to screen-monitoring software like GoGuardian and Securely
 
-Eaglercraft 1.12 by lax1dude with help from ayunami2000
+Eaglercraft 1.12 created by PeytonPlayz595
+
+EaglercraftX Engine created by lax1dude and ayunami2000
 
 Eagletcraft compiled by PlanetDoge w/ help from the PlanetGamez team
 
-Eaglercraft 1.12 average RAM usage: 1.6 GB
+EaglercraftX 1.12 average RAM usage: 1.6 GB
 Eagletcraft 1.12 Undetectable average RAM usage: 0.8 GB
 
 
+
+
+
+
+
+Eagletcraft's code is liscensed under the Apache 2.0 terms. Redistribution of code without attribution is prohibited.
 PlanetGamez: https://sites.google.com/view/planet-gamez/
 OneCompiler Link: https://onecompiler.com/html/43rjjm8te
 
 -->
+
+
+
 
 <html><head><base target="_blank"><script id="gamemonetize-sdk">Couldn't find the requested file /sedk.js in testamalame/sef.</script></head><body><div id="container">
   <iframe id="fr" width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe>
