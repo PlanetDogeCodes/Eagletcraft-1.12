@@ -8,7 +8,7 @@ Eagletcraft 1.12 was made by distibuting the code of EaglercraftX 1.12 into many
 The reason Eagletcraft runs so well with low ram usage is because none of your computer's RAM is being wasted trying to update static files every tick (one-twentieth of a second).
 
 **NOTICE:**
-Unless you are in a situation where you cannot access the link, we recommend you play our constantly updating, cloud-connected OneCompiler edition of Eagletcraft instead of downloading the latest patch edition. Link: https://onecompiler.com/html/43rjjm8te
+Unless you are in a situation where you cannot access the link, we recommend you play our constantly updating, cloud-connected OneCompiler edition of Eagletcraft instead of downloading the latest patch edition. https://onecompiler.com/html/43rjjm8te
 
 Latest Patch: p3 on 7/24/2025
 Previous Patch: p2 on 7/23/2025
