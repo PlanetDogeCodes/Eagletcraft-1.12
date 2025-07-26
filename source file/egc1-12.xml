@@ -67,7 +67,7 @@ window.__eaglercraftLoaderClient = {
   gzip: true
 };
 </script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/mc@main/shared/loader.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/PlanetDogeCodes/Eagletcraft-1.12@main/source%20file/loader.js"></script>
 <link type="image/png" rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/genizy/mc@main/shared/game.png" />
 </head>
 <body style="margin:0px;width:100%;height:100%;overflow:hidden;background-color:white;">
