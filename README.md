@@ -1,4 +1,7 @@
 # Eagletcraft-1.12
+
+--PLEASE NOTE THAT THIS VERSION IS STILL IN DEVELOPMENT--
+
 Eagletcraft is a packaged and optimized version of Eaglercraft that runs exceptionally well on low end devices, such as chromebooks. This repository contains the latest stable version of Eagletcraft along with previous patches and the source (xml) file.
 
 **HOW IT WORKS:** 
