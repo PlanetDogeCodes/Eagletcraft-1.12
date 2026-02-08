@@ -28,8 +28,7 @@
           set(value) {
             value.servers = [
   { addr: "wss://arch.mc", name: "ArchMC" },
-  { addr: "wss://blobcraft.club", name: "BlobCraft" },
-  { addr: "wss://8b4t.org", name: "8 builders 4 tools" }
+  { addr: "wss://1b2t.eagler.host", name: "1 Builder 2 Tools" }
 ];
             this._eaglercraftXOpts = value;
           },
