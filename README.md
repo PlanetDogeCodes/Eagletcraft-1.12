@@ -11,5 +11,5 @@ The reason Eagletcraft runs so well with low ram usage is because none of your c
 **NOTICE:**
 Unless you are in a situation where you cannot access the link, we recommend you play our constantly updating, cloud-connected OneCompiler edition of Eagletcraft instead of downloading the latest patch edition. https://onecompiler.com/html/43rjjm8te
 
-Latest Version: v1.0 p5 on 2/4/2026
-Previous Patch: v.1.0 p4 on 7/25/2025
+Latest Version: v1.0 p5 on 5/11/2026
+Previous Patch: v.1.0 p5 on 2/4/2026
