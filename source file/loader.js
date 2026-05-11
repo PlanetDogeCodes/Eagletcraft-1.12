@@ -29,7 +29,8 @@
             value.servers = [
   { addr: "wss://arch.mc", name: "ArchMC" },
   { addr: "wss://1b2t.eagler.host", name: "1 Builder 2 Tools" },
-  { addr: "https://github.com/PlanetDogeCodes/Eagletcraft-1.12", name: "Eagletcraft Loader by Planet_Doge" }
+  { addr: "https://github.com/PlanetDogeCodes/Eagletcraft-1.12", name: "Eagletcraft Loader by Planet_Doge" },
+  { addr: "Contact us on this Discord: https://discord.gg/UEE39zHuCx", name: "Want to see your server here?" }
 ];
             this._eaglercraftXOpts = value;
           },
