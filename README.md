@@ -1,5 +1,7 @@
 # Eagletcraft-1.12
 
+Succeded by EaglerLite: https://github.com/PlanetDogeCodes/EaglerLite
+
 Eagletcraft is a packaged and optimized Eaglercraft client/launcher made to run exceptionally well on low end devices, such as chromebooks. This repository contains the latest stable version of Eagletcraft along with previous patches and the source (xml) file.
 
 **HOW IT WORKS:** 
